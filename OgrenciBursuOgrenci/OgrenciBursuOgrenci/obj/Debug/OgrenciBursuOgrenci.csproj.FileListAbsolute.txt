@@ -1,0 +1,9 @@
+D:\Furkan Ders\Örnek Programlar\üni\OgrenciBursuOgrenci\OgrenciBursuOgrenci\bin\Debug\OgrenciBursuOgrenci.exe.config
+D:\Furkan Ders\Örnek Programlar\üni\OgrenciBursuOgrenci\OgrenciBursuOgrenci\bin\Debug\OgrenciBursuOgrenci.exe
+D:\Furkan Ders\Örnek Programlar\üni\OgrenciBursuOgrenci\OgrenciBursuOgrenci\bin\Debug\OgrenciBursuOgrenci.pdb
+D:\Furkan Ders\Örnek Programlar\üni\OgrenciBursuOgrenci\OgrenciBursuOgrenci\obj\Debug\OgrenciBursuOgrenci.csprojResolveAssemblyReference.cache
+D:\Furkan Ders\Örnek Programlar\üni\OgrenciBursuOgrenci\OgrenciBursuOgrenci\obj\Debug\OgrenciBursuOgrenci.Form1.resources
+D:\Furkan Ders\Örnek Programlar\üni\OgrenciBursuOgrenci\OgrenciBursuOgrenci\obj\Debug\OgrenciBursuOgrenci.Properties.Resources.resources
+D:\Furkan Ders\Örnek Programlar\üni\OgrenciBursuOgrenci\OgrenciBursuOgrenci\obj\Debug\OgrenciBursuOgrenci.csproj.GenerateResource.Cache
+D:\Furkan Ders\Örnek Programlar\üni\OgrenciBursuOgrenci\OgrenciBursuOgrenci\obj\Debug\OgrenciBursuOgrenci.exe
+D:\Furkan Ders\Örnek Programlar\üni\OgrenciBursuOgrenci\OgrenciBursuOgrenci\obj\Debug\OgrenciBursuOgrenci.pdb

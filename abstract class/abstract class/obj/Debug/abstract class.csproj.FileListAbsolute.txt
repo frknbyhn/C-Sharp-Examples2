@@ -1,0 +1,9 @@
+D:\Furkan Ders\Örnek Programlar\üni\abstract class\abstract class\bin\Debug\abstract class.exe.config
+D:\Furkan Ders\Örnek Programlar\üni\abstract class\abstract class\bin\Debug\abstract class.exe
+D:\Furkan Ders\Örnek Programlar\üni\abstract class\abstract class\bin\Debug\abstract class.pdb
+D:\Furkan Ders\Örnek Programlar\üni\abstract class\abstract class\obj\Debug\abstract class.csprojResolveAssemblyReference.cache
+D:\Furkan Ders\Örnek Programlar\üni\abstract class\abstract class\obj\Debug\abstract_class.Form1.resources
+D:\Furkan Ders\Örnek Programlar\üni\abstract class\abstract class\obj\Debug\abstract_class.Properties.Resources.resources
+D:\Furkan Ders\Örnek Programlar\üni\abstract class\abstract class\obj\Debug\abstract class.csproj.GenerateResource.Cache
+D:\Furkan Ders\Örnek Programlar\üni\abstract class\abstract class\obj\Debug\abstract class.exe
+D:\Furkan Ders\Örnek Programlar\üni\abstract class\abstract class\obj\Debug\abstract class.pdb

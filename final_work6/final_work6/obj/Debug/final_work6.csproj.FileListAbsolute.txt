@@ -1,0 +1,5 @@
+D:\Furkan Ders\Örnek Programlar\üni\final_work6\final_work6\bin\Debug\final_work6.exe.config
+D:\Furkan Ders\Örnek Programlar\üni\final_work6\final_work6\obj\Debug\final_work6.csprojResolveAssemblyReference.cache
+D:\Furkan Ders\Örnek Programlar\üni\final_work6\final_work6\obj\Debug\final_work6.Form1.resources
+D:\Furkan Ders\Örnek Programlar\üni\final_work6\final_work6\obj\Debug\final_work6.Properties.Resources.resources
+D:\Furkan Ders\Örnek Programlar\üni\final_work6\final_work6\obj\Debug\final_work6.csproj.GenerateResource.Cache

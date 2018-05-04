@@ -1,0 +1,9 @@
+C:\Users\Furkan\Desktop\AE_Proje\White_Box\bin\Debug\White_Box.dll
+C:\Users\Furkan\Desktop\AE_Proje\White_Box\bin\Debug\White_Box.pdb
+C:\Users\Furkan\Desktop\AE_Proje\White_Box\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Furkan\Desktop\AE_Proje\White_Box\bin\Debug\yazilim_sinama_proje.exe
+C:\Users\Furkan\Desktop\AE_Proje\White_Box\bin\Debug\yazilim_sinama_proje.pdb
+C:\Users\Furkan\Desktop\AE_Proje\White_Box\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Furkan\Desktop\AE_Proje\White_Box\obj\Debug\White_Box.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\AE_Proje\White_Box\obj\Debug\White_Box.dll
+C:\Users\Furkan\Desktop\AE_Proje\White_Box\obj\Debug\White_Box.pdb

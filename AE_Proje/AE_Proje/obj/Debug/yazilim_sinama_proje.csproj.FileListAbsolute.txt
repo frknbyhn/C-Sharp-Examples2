@@ -1,0 +1,17 @@
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\bin\Debug\yazilim_sinama_proje.exe.config
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\bin\Debug\yazilim_sinama_proje.exe
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\bin\Debug\yazilim_sinama_proje.pdb
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.MainForm.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.demirbas_ekle.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.demirbas_guncelle.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.demirbas_listele.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.demirbas_sec.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.giris.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.oda_ekle.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.oda_guncelle.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.oda_listele.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.Properties.Resources.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.exe
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.pdb
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\yazilim_sinama_proje.csprojResolveAssemblyReference.cache

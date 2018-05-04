@@ -1,0 +1,9 @@
+D:\Furkan Ders\Örnek Programlar\üni\Personel\Personel\bin\Debug\Personel.exe.config
+D:\Furkan Ders\Örnek Programlar\üni\Personel\Personel\bin\Debug\Personel.exe
+D:\Furkan Ders\Örnek Programlar\üni\Personel\Personel\bin\Debug\Personel.pdb
+D:\Furkan Ders\Örnek Programlar\üni\Personel\Personel\obj\Debug\Personel.csprojResolveAssemblyReference.cache
+D:\Furkan Ders\Örnek Programlar\üni\Personel\Personel\obj\Debug\Personel.Form1.resources
+D:\Furkan Ders\Örnek Programlar\üni\Personel\Personel\obj\Debug\Personel.Properties.Resources.resources
+D:\Furkan Ders\Örnek Programlar\üni\Personel\Personel\obj\Debug\Personel.csproj.GenerateResource.Cache
+D:\Furkan Ders\Örnek Programlar\üni\Personel\Personel\obj\Debug\Personel.exe
+D:\Furkan Ders\Örnek Programlar\üni\Personel\Personel\obj\Debug\Personel.pdb

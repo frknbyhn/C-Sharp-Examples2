@@ -1,0 +1,39 @@
+c:\users\near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\bin\Debug\AE_Proje.exe.config
+c:\users\near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\bin\Debug\AE_Proje.exe
+c:\users\near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\bin\Debug\AE_Proje.pdb
+c:\users\near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.Login.resources
+c:\users\near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.Properties.Resources.resources
+c:\users\near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.csproj.GenerateResource.Cache
+c:\users\near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.exe
+c:\users\near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.pdb
+C:\Users\Near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.Dashboard.resources
+C:\Users\Near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.OdaEkle.resources
+C:\Users\Near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.OdaListele.resources
+C:\Users\Near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.OdaGuncelle.resources
+C:\Users\Near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.DemirbasEkle.resources
+C:\Users\Near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.DemirbasArama.resources
+C:\Users\Near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.DemirbasListeleme.resources
+C:\Users\Near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.DemirbasGuncelle.resources
+C:\Users\Near\documents\visual studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.csprojResolveAssemblyReference.cache
+C:\Users\Near\Documents\Visual Studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.OdaDemirbasEkle.resources
+C:\Users\Near\Documents\Visual Studio 2015\Projects\AE_Proje\AE_Proje\obj\Debug\AE_Proje.DemirbasSec.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\bin\Debug\AE_Proje.exe.config
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\bin\Debug\AE_Proje.exe
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\bin\Debug\AE_Proje.pdb
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.Dashboard.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.DemirbasEkle.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.DemirbasArama.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.DemirbasGuncelle.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.DemirbasListeleme.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.DemirbasSec.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.Login.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.OdaDemirbasEkle.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.OdaEkle.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.OdaGuncelle.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.OdaListele.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.Properties.Resources.resources
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.exe
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\obj\Debug\AE_Proje.pdb
+C:\Users\Furkan\Desktop\AE_Proje\AE_Proje\bin\Debug\yazilim_sinama_proje.exe.config
